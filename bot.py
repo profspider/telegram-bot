@@ -8,7 +8,7 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 # ========== CONFIGURAZIONE ==========
-BOT_TOKEN = "766570085:AAHxuUHNH4OSBJFnsCvbaUSsoUMr8bCq_co"
+BOT_TOKEN = "FINTOoUMr8bCq_co"
 TELEGRAM_API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 DB_FILE = "promemoria.db"
 
